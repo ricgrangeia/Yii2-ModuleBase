@@ -13,7 +13,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=8.1",
-    "yidas/yii2-bower-asset": "~2.0.13",
+    "yidas/yii2-bower-asset": "dev-master",
     "yiisoft/yii2": "~2.0.0",
     "yiisoft/yii2-mongodb": "~3.0.0",
     "ext-ctype": "*"
