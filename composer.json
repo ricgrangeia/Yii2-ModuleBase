@@ -1,7 +1,9 @@
 {
   "name": "ricgrangeia/yii2-modulebase",
   "description": "Yii2 Module Auto Register",
+  "homepage": "https://github.com/ricgrangeia/yii2-modulebase",
   "type": "yii2-extension",
+  "license": "MIT",
   "authors": [
     {
       "name": "Ricardo Grangeia",
