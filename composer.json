@@ -11,6 +11,7 @@
     }
   ],
   "minimum-stability": "stable",
+  "prefer-stable": true,
   "require": {
     "php": ">=8.1",
     "yidas/yii2-bower-asset": "dev-master",
